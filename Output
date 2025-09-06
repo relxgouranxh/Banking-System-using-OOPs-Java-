@@ -1,0 +1,23 @@
+                                                               --- Saving Account Tests ---
+Account Holder name is : Gouransh Bhandari
+The AccountNumber is : 12345
+The Account balance is : 1200
+The Interest Rate is : 5%
+1000 sucessfully added to your bank account 
+Current balance is 2200
+500 is debited from your account
+Your Current balance is 1700
+800 is debited from your account
+Your Current balance is 900
+The interest is 90 in 2 year
+The balance is :900
+
+                                                              --- Current Account Tests ---
+Account Holder name is : Daku Mangal Singh
+The AccountNumber is : 6969
+The Account balance is : 100
+500 sucessfully added to your bank account
+Current balance is 600
+700 is debited from your account
+Exeeds the overdraft limit
+The balance is :-100
